@@ -1,22 +1,22 @@
 _La licence utilisées pour tous les articles MoBlo est_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[**Return à l'Introduction**](/README.md)
+[**Revenir à l'Introduction**](/README.md)
 
 # 1.    Contexte
 
 Dans ce document, la modélisation sera présentée sur deux exemples différents. Les deux sections suivantes présentent ces deux exemples.
 
-## 1.1.    Use case 1: Bibliothèque
+## 1.1.    Use case 1 : Bibliothèque
 
-A big city manages a few libraries, as an example and to keep it simple, let’s take a North one, a South one, a West one, an East one and a Central one.
+Une grande ville gère plusieurs bibliothèques, à titre d'exemple et pour le simplifier, prenons une au Nord, une au Sud, une à l'Ouest, une à l'Est et une bibliothèque Centrale.
 
-The Central library is responsible for the purchase of new books. Books are distributed to the different libraries. The quantity of books bought depends on the interest given to the books. Some books are bought in only one copy and have to be shared by libraries. Others books are bought in multiple copies and could be found in each library.
+La bibliothèque Centrale est responsable de l'achat de nouveaux livres. Les livres sont distribués aux différentes bibliothèques. La quantité de livres achetés dépend de l'intérêt accordé aux livres. Certains livres sont achetés en un seul exemplaire et doivent être partagés par les bibliothèques. D'autres livres sont achetés en plusieurs exemplaires et peuvent être trouvés dans chaque bibliothèque.
 
-Readers must have an access right to borrow books. They can borrow books in any library, but they are limited to 10 books.  They can return borrowed books in any library even in another library than the first one. Readers can order books to a specific library, thus when it will be available, the book will be driven to the library. A reader can order until 2 books at the time.
+Les lecteurs doivent avoir un droit d'accès pour emprunter des livres. Ils peuvent emprunter des livres dans n'importe quelle bibliothèque, mais ils sont limités à 10 livres. Ils peuvent rendre les livres empruntés dans n'importe quelle bibliothèque même dans une autre bibliothèque que celle où ils ont empruntés les livres. Les lecteurs peuvent commander des livres dans une bibliothèque spécifique, alors, quand il sera disponible, le livre sera conduit dans la bibliothèque qu'il a choisi. Un lecteur peut commander jusqu'à 2 livres en même temps.
 
-## 1.2.    Use case 2: Forum
+## 1.2.    Use case 2 : Forum
 
-Someone wants to create a restricted access forum without using the usual web tools. People are able to create new posts. People are only able to comment to either a post or to another comment. The post writer is the responsible for the communication around his post. He decides who is able to comment his post.
+Quelqu'un veut créer un forum à accès limité sans utiliser les outils Web habituels. Les utilisateurs peuvent créer de nouveaux articles. Les utilisateurs peuvent commenter une autre publication ou un autre commentaire. L'auteur de l'article est responsable de la communication autour de son article. Il décide qui est capable de commenter son article.
 
 [**Go to Population Map Diagram**](/02-pm.md)
 
