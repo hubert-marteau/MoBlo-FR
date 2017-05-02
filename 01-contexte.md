@@ -1,12 +1,12 @@
- _The license used for MoBlo articles is_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+_La licence utilisées pour tous les articles MoBlo est_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[**Return to Introduction**](/README.md)
+[**Return à l'Introduction**](/README.md)
 
-# 1.    Context
+# 1.    Contexte
 
-In this document, modelization will be used on two examples. The following 2 sections present these two examples.
+Dans ce document, la modélisation sera présentée sur deux exemples différents. Les deux sections suivantes présentent ces deux exemples.
 
-## 1.1.    Use case 1: Library
+## 1.1.    Use case 1: Bibliothèque
 
 A big city manages a few libraries, as an example and to keep it simple, let’s take a North one, a South one, a West one, an East one and a Central one.
 
