@@ -18,5 +18,5 @@ Les lecteurs doivent avoir un droit d'accès pour emprunter des livres. Ils peuv
 
 Quelqu'un veut créer un forum à accès limité sans utiliser les outils Web habituels. Les utilisateurs peuvent créer de nouveaux articles. Les utilisateurs peuvent commenter une autre publication ou un autre commentaire. L'auteur de l'article est responsable de la communication autour de son article. Il décide qui est capable de commenter son article.
 
-[**Go to Population Map Diagram**](/02-pm.md)
+[**Aller au diagramme Population Map**](/02-pm.md)
 
