@@ -14,10 +14,10 @@ Comme toute technologie, la BlockChain a besoin d'outils de modélisation pour g
 
 Ce document présent :
 
-* Le [**Contexte**](https://simplyub.gitbooks.io/moblo/content/context.html) des cas utilisés en exemple;
-* Le diagramme [**Population Map**](https://simplyub.gitbooks.io/moblo/content/pm.html), "Carte de la population";
-* Le diagramme [**Global Architecture**](https://simplyub.gitbooks.io/moblo/content/ga.html), "Architecture Globale";
-* Le diagramme [**Unit Definition**](https://simplyub.gitbooks.io/moblo/content/ud.html), "Définition des unités";
+* Le [**Contexte**](/01-contexte.md) des cas utilisés en exemple;
+* Le diagramme [**Population Map**](/02-pm.md), "Carte de la population";
+* Le diagramme [**Global Architecture**](/03-ga.md), "Architecture Globale";
+* Le diagramme [**Unit Definition**](/04-ud.md), "Définition des unités";
 * Le diagramme [**Business Transactions**](https://simplyub.gitbooks.io/moblo/content/bt.html), "Transactions Métier";
 * La [**Conclusion**](https://simplyub.gitbooks.io/moblo/content/conclusion.html).
 
