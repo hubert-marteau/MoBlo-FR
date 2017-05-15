@@ -2,6 +2,8 @@ _La licence utilisées pour tous les articles MoBlo est_ [_CC BY-NC-ND 4.0_](htt
 
 _La version complète de MoBlo peut être lue à cette url :_[ ](https://simplyub.gitbooks.io/moblo/content/)[_https://simplyub.gitbooks.io/moblo-fr/content/_](https://simplyub.gitbooks.io/moblo-fr/content/)
 
+English version : _MoBlo can be fully read at this url :_ [_https://simplyub.gitbooks.io/moblo/content/_](https://simplyub.gitbooks.io/moblo/content/)
+
 # MoBlo, Modélisation pour BlockChain {#moblo-modelization-for-blockchain}
 
 by [Hubert MARTEAU](https://github.com/SimplyUb)
@@ -18,8 +20,8 @@ Ce document présent :
 * Le diagramme [**Population Map**](/02-pm.md), "Carte de la population";
 * Le diagramme [**Global Architecture**](/03-ga.md), "Architecture Globale";
 * Le diagramme [**Unit Definition**](/04-ud.md), "Définition des unités";
-* Le diagramme [**Business Transactions**](https://simplyub.gitbooks.io/moblo/content/bt.html), "Transactions Métier";
-* La [**Conclusion**](https://simplyub.gitbooks.io/moblo/content/conclusion.html).
+* Le diagramme [**Business Transactions**](/05-bt.md), "Transactions Métier";
+* La [**Conclusion**](/06-conclusion.md).
 
 
 
