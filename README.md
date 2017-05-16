@@ -11,7 +11,7 @@ Contact Information: Hubert MARTEAU @ Worldline
 License: CC BY-NC-ND 4.0
 ---
 
-_La licence utilisées pour tous les articles MoBlo est_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+_La licence utilisée pour tous les articles MoBlo est_ [_CC BY-NC-ND 4.0_](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 _La version complète de MoBlo peut être lue à cette url :_[ ](https://simplyub.gitbooks.io/moblo/content/)[_https://simplyub.gitbooks.io/moblo-fr/content/_](https://simplyub.gitbooks.io/moblo-fr/content/)
 
@@ -35,4 +35,6 @@ Ce document présent :
 * Le diagramme [**Unit Definition**](/04-ud.md), "Définition des unités";
 * Le diagramme [**Business Transactions**](/05-bt.md), "Transactions Métier";
 * La [**Conclusion**](/06-conclusion.md).
+
+
 
